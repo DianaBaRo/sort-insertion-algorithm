@@ -1,3 +1,4 @@
+//sort insertion algorithm
 def sortMe(a):
     for i in range( 1, len(a) ):
         temp = a[i]
